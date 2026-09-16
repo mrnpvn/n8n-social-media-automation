@@ -59,3 +59,7 @@ The free workflow (`workflows/`) is MIT. The two premium workflows + documentati
 ## More products
 
 This is part of a small catalog of digital products. See the rest: https://mrnpvn.gumroad.com
+
+## Spanish content hub
+
+Guides and product catalog in Spanish for small businesses: https://mrnpvn.github.io/ia-para-negocios/
